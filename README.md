@@ -133,7 +133,7 @@ Les feedbacks peuvent être rédigés en anglais ou en français. L'objectif est
 
  - Étape 6 : Interface Utilisateur
 
-- Développer une interface avec *tkinter* ou *streamlit*.
+- Développer une interface avec *Dash*.
 - Tester l'interface pour garantir une bonne expérience utilisateur.
 
 
